@@ -1,0 +1,66 @@
+{
+    "background_black_level": {
+      "min": 0.88,
+      "max": 1.0,
+      "recommended": 0.96
+    },
+    "rim_glow_intensity": {
+      "min": 0.35,
+      "max": 1.25,
+      "recommended": 0.82
+    },
+    "rim_glow_width": {
+      "min": 0.002,
+      "max": 0.04,
+      "recommended": 0.012
+    },
+    "bloom_radius": {
+      "min": 0.01,
+      "max": 0.18,
+      "recommended": 0.07
+    },
+    "bloom_intensity": {
+      "min": 0.08,
+      "max": 0.65,
+      "recommended": 0.28
+    },
+    "aura_field_intensity": {
+      "min": 0.01,
+      "max": 0.25,
+      "recommended": 0.09
+    },
+    "spark_density": {
+      "min": 0.0,
+      "max": 0.12,
+      "recommended": 0.03
+    },
+    "overspray_noise": {
+      "min": 0.0,
+      "max": 0.2,
+      "recommended": 0.05
+    },
+    "gradient_softness": {
+
+      "min": 0.2,
+      "max": 1.0,
+      "recommended": 0.76
+    },
+    "poster_contrast": {
+      "min": 0.4,
+      "max": 1.0,
+      "recommended": 0.83
+    },
+    "symmetry_bias": {
+      "min": 0.0,
+      "max": 1.0,
+      "recommended": 0.38
+    },
+    "mystical_haze_amount": {
+      "min": 0.0,
+      "max": 0.6,
+      "recommended": 0.17
+    }
+}
+
+
+

@@ -1,0 +1,51 @@
+{
+    "style_name": "Vintage 1970s–1980s Blacklight Poster",
+    "style_category": [
+      "retro poster",
+      "fluorescent fantasy",
+      "blacklight aesthetic",
+      "airbrush glow art"
+    ],
+    "core_traits": [
+      "black-dominant background",
+      "fluorescent palette logic",
+      "airbrushed or soft painterly glow",
+      "iconic poster readability",
+      "mystical/cosmic/fantasy motifs",
+
+      "halo and bloom hierarchy"
+    ],
+    "required_elements": [
+      "deep black field",
+      "high saturation glow colors",
+      "focal subject",
+      "soft emission behavior"
+    ],
+    "optional_elements": [
+      "stars",
+      "moon",
+      "crystals",
+      "smoke",
+      "zodiac motifs",
+      "decorative sparkles",
+      "fantasy framing"
+    ],
+    "forbidden_drifts": [
+      "generic synthwave",
+      "cute sticker aesthetic",
+      "flat modern neon branding",
+      "minimalist daylight realism",
+      "overly clean digital vector finish"
+    ],
+    "rendering_bias": {
+      "softness": 0.78,
+      "contrast": 0.86,
+      "symmetry": 0.42,
+      "atmosphere": 0.74,
+      "narrative_scene_complexity": 0.39,
+      "iconic_subject_readability": 0.91
+    }
+}
+
+
+

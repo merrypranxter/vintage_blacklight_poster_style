@@ -1,0 +1,40 @@
+blacklight-poster-style/
+├── README.md
+├── docs/
+│ ├── 01_core_definition.md
+│ ├── 02_visual_dna.md
+│ ├── 03_style_pillars.md
+│ ├── 04_era_cues.md
+│ ├── 05_boundaries_and_anti_drift.md
+│ ├── 06_neighbor_style_comparisons.md
+│ ├── 07_common_failure_modes.md
+│ └── 08_use_cases.md
+├── systems/
+│ ├── palette_system.md
+│ ├── motif_library.md
+│ ├── materials_and_textures.md
+│ ├── optics_and_lighting.md
+│ ├── composition_grammar.md
+│ ├── subject_archetypes.md
+│ ├── typography_notes.md
+│ └── artifact_logic.md
+├── prompts/
+│ ├── prompt_templates.md
+│ ├── prompt_blocks_subjects.md
+│ ├── prompt_blocks_backgrounds.md
+│ ├── prompt_blocks_lighting.md
+│ └── anti_drift_prompt_rules.md
+├── shader/
+│ ├── shader_behavior_ideas.md
+│ ├── glow_stack_model.md
+│ └── parameter_suggestions.json
+├── data/
+
+│ ├── style_spec.json
+│ ├── palette_presets.json
+│ ├── motif_tags.csv
+│ └── comparison_table.csv
+└── examples/
+  ├── poster_recipe_01.md
+  ├── poster_recipe_02.md
+  └── poster_recipe_03.md

@@ -1,0 +1,26 @@
+{
+
+    "ultraviolet_dream": {
+      "colors": ["#ff2bd6", "#a83cff", "#3f5cff", "#34d5ff", "#f7f7ff"],
+      "background": "#000000",
+      "notes": "Classic magenta-violet-blue-cyan blacklight family"
+    },
+    "toxic_aurora": {
+      "colors": ["#7cff00", "#e9ff2a", "#28d7ff", "#2747ff", "#ff9f1a"],
+      "background": "#000000",
+      "notes": "High-energy acid green and electric blue poster logic"
+    },
+    "solar_bloom": {
+      "colors": ["#ff4fd8", "#ff7a00", "#ffe600", "#8b38ff", "#32cfff"],
+      "background": "#000000",
+      "notes": "Hot warm/cool clash with theatrical poster energy"
+    },
+    "lunar_mystic": {
+      "colors": ["#44d8ff", "#2d56ff", "#7e3cff", "#ff4bc8", "#ffffff"],
+      "background": "#000000",
+      "notes": "Moonlit feminine and celestial occult palette"
+    }
+}
+
+
+
