@@ -7,7 +7,6 @@ Use this style for:
 - cosmic animals
 - mushroom temples
 - blacklight dream scenes
-
 - retro mystical poster remixes
 - UV-reactive surreal figures
 
@@ -52,7 +51,6 @@ Useful for:
 - palette pickers
 - motif randomizers
 - style-preserving composition generators
-
 - subject archetype templates
 - fluorescence-to-darkness balance sliders
 

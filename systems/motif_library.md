@@ -2,7 +2,6 @@
 
 ## Celestial Motifs
 - full moons
-
 - crescent moons
 - stars
 - constellations
@@ -47,7 +46,6 @@
 ## Nature Motifs
 - mushrooms
 - waterfalls
-
 - forests in silhouette
 - flowers with glow edges
 - vines

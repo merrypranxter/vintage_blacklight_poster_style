@@ -59,7 +59,6 @@ Key traits:
 ## 5. Cosmic Landscape Icon
 
 Examples:
-
 - moon over glowing mountains
 - waterfall in black void
 - portal sky
