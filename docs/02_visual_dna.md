@@ -28,7 +28,6 @@ The visual DNA of vintage blacklight posters can be broken into the following re
 4. **Central Icon**
   - a wolf, cat, wizard, woman, dragon, mushroom cluster, moon scene, or similar
   - large and readable from a distance
-
   - often centered or near-centered
 
 5. **Dream Symbol Layer**

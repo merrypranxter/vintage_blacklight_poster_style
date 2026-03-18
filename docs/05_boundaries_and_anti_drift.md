@@ -40,7 +40,6 @@ Symptoms:
 - sun grids
 - chrome cars
 - wireframe mountains
-
 - magenta-cyan sunset trope overload
 
 Correction:

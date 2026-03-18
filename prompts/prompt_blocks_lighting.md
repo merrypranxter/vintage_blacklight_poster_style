@@ -5,7 +5,6 @@
 - airbrushed spectral bloom
 - soft ultraviolet halo
 - luminous contour wrapping
-
 - internal radiance
 - ionized white highlights
 
